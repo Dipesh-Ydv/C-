@@ -104,7 +104,7 @@ int main ()
 {
     greet();
     Team teamA, teamB;
-    teamA.setNames("Team A", "Dipesh Yadav", "Sourabh Yadav", "Varshank Saini");
+    teamA.setNames("Team A", "Dipesh Yadav", "Varshank Saini", "Sourabh Yadav");
     teamA.displayTeamInfo();
     teamB.setNames("Team B", "Ayush Mudgil", "Jimmy Yadav", "Vishal Saini");
     teamB.displayTeamInfo();
