@@ -39,7 +39,7 @@ class Player {
 
 int main ()
 {
-    // Statically creation of object
+    // Static creation of object
 
     // Player d;
     // d = Player(90,'A');
